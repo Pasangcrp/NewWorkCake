@@ -1,6 +1,6 @@
-# 🎂 Cake Shop E-Commerce Website
+# 🎂 New York Cake E-Commerce Website
 
-Welcome to the **Cake Shop E-Commerce Website**! This platform is designed to showcase and sell a variety of bakery products online. Built with a combination of **PHP**, **HTML**, **CSS**, and **JavaScript**, the website offers a seamless and visually appealing experience for customers. We used **XAMPP** to manage the server-side functionalities during development.
+Welcome to the **New York Cake Shop E-Commerce Website**! This platform is designed to showcase and sell a variety of bakery products online. Built with a combination of **PHP**, **HTML**, **CSS**, and **JavaScript**, the website offers a seamless and visually appealing experience for customers. We used **XAMPP** to manage the server-side functionalities during development.
 
 ## 🌟 Features
 
